@@ -16,5 +16,3 @@ day = "Thursday"
 day = 32.5
 day = 19
 print(day)
-
-A_good_grade_is_A+ = 5
